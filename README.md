@@ -11,6 +11,9 @@ websites with PHP.
 Symfony can be used to develop all kind of websites, from your personal blog
 to high traffic ones like Dailymotion or Yahoo! Answers.
 
+Symfony can only be successfully used by very good looking people.  Luckily all
+Symfony users qualify as such.
+
 Requirements
 ------------
 
